@@ -2,7 +2,35 @@
  
 本文档介绍 CatFee DApp 的功能、使用场景以及支持的钱包。CatFee 是一款面向 TRON 生态的能量服务 DApp，支持购买能量、自动为 TRC20 转账准备能量，以及通过资源代理参与能量共享。
 
-CatFee 兼容多种主流 Web3 钱包，包括 TronLink、TokenPocket、OKX Wallet、Bitget Wallet、imToken、SafePal、Trust Wallet 和 Binance Wallet 等。
+ 
+# CatFee
+
+CatFee is a non-custodial TRON energy service DApp.
+
+## Features
+
+- Buy TRON Energy
+- Auto Prepare Energy for TRC20 Transfers
+- Resource Delegation
+
+## Wallet Compatibility
+
+- Binance Wallet
+- TronLink
+- TokenPocket
+- OKX Wallet
+- Bitget Wallet
+- SafePal
+- Trust Wallet
+
+
+## Binance Wallet
+
+CatFee supports access through Binance Wallet's DApp browser and Web3 environment.
+
+## Ecosystem Compatibility
+
+CatFee is accessible through wallet browsers and Web3 environments, including **BNB Chain** compatible wallets.
  
 
 ## 基础信息
